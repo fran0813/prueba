@@ -15,7 +15,8 @@
         "laravel/tinker": "^2.5",
         "livewire/livewire": "^2.5",
         "maatwebsite/excel": "^3.1",
-        "mediconesystems/livewire-datatables": "^0.6.8"
+        "mediconesystems/livewire-datatables": "^0.6.8",
+        "tymon/jwt-auth": "dev-develop"
     },
     "require-dev": {
         "barryvdh/laravel-debugbar": "^3.6",
